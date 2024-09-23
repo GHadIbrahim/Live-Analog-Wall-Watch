@@ -1,2 +1,2 @@
-# Live-Analog-Wall-Watch
-simple live analog wall watch
+simple live analog wall watch by C++ , SFML
+I hope you try it .
